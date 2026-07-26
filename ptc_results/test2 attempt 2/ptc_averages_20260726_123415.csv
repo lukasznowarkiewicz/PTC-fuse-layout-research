@@ -1,0 +1,10 @@
+timestamp,ambient_c,layout_index,layout_name,set_current_a,trials_requested,trials_completed,trips_detected,average_trip_time_s,stdev_trip_time_s,min_trip_time_s,max_trip_time_s
+2026-07-26T12:53:55.439,70.00,1,heat_sunk_slow_blow_cell,1.5000,5,1,0,,,,
+2026-07-26T12:53:55.440,70.00,1,heat_sunk_slow_blow_cell,1.7500,5,5,5,4.378,1.826,2.810,7.060
+2026-07-26T12:53:55.440,70.00,1,heat_sunk_slow_blow_cell,2.0000,5,5,5,1.866,0.154,1.619,1.980
+2026-07-26T12:53:55.440,70.00,1,heat_sunk_slow_blow_cell,3.0000,5,5,5,0.567,0.081,0.422,0.611
+2026-07-26T12:53:55.441,70.00,1,heat_sunk_slow_blow_cell,4.0000,5,5,5,1.861,0.131,1.667,1.964
+2026-07-26T12:53:55.441,70.00,1,heat_sunk_slow_blow_cell,5.0000,5,5,5,1.564,0.149,1.407,1.766
+2026-07-26T12:53:55.441,70.00,1,heat_sunk_slow_blow_cell,6.0000,5,5,5,1.442,0.135,1.246,1.628
+2026-07-26T12:53:55.441,70.00,1,heat_sunk_slow_blow_cell,7.0000,5,5,5,1.330,0.097,1.244,1.444
+2026-07-26T12:53:55.441,70.00,1,heat_sunk_slow_blow_cell,8.0000,5,5,5,1.369,0.095,1.264,1.447

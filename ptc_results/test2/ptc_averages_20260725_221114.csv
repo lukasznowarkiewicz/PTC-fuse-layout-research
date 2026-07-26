@@ -1,0 +1,10 @@
+timestamp,ambient_c,layout_index,layout_name,set_current_a,trials_requested,trials_completed,trips_detected,average_trip_time_s,stdev_trip_time_s,min_trip_time_s,max_trip_time_s
+2026-07-25T22:28:40.042,20.00,1,normal_routing,1.5000,5,1,0,,,,
+2026-07-25T22:28:40.042,20.00,1,normal_routing,1.7500,5,1,0,,,,
+2026-07-25T22:28:40.042,20.00,1,normal_routing,2.0000,5,1,0,,,,
+2026-07-25T22:28:40.042,20.00,1,normal_routing,3.0000,5,5,5,6.587,0.514,5.705,7.060
+2026-07-25T22:28:40.042,20.00,1,normal_routing,4.0000,5,5,5,2.062,0.156,1.947,2.299
+2026-07-25T22:28:40.042,20.00,1,normal_routing,5.0000,5,5,5,0.942,0.008,0.930,0.951
+2026-07-25T22:28:40.042,20.00,1,normal_routing,6.0000,5,5,5,0.466,0.079,0.417,0.606
+2026-07-25T22:28:40.042,20.00,1,normal_routing,7.0000,5,5,5,1.206,0.866,0.258,1.883
+2026-07-25T22:28:40.042,20.00,1,normal_routing,8.0000,5,5,5,1.622,0.048,1.587,1.706

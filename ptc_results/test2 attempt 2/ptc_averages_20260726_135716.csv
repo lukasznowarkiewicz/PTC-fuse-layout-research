@@ -1,0 +1,10 @@
+timestamp,ambient_c,layout_index,layout_name,set_current_a,trials_requested,trials_completed,trips_detected,average_trip_time_s,stdev_trip_time_s,min_trip_time_s,max_trip_time_s
+2026-07-26T14:15:03.904,20.00,1,ptc_in_silicone,1.5000,5,1,0,,,,
+2026-07-26T14:15:03.905,20.00,1,ptc_in_silicone,1.7500,5,1,0,,,,
+2026-07-26T14:15:03.905,20.00,1,ptc_in_silicone,2.0000,5,1,0,,,,
+2026-07-26T14:15:03.905,20.00,1,ptc_in_silicone,3.0000,5,5,5,10.555,1.027,8.917,11.639
+2026-07-26T14:15:03.905,20.00,1,ptc_in_silicone,4.0000,5,5,5,2.603,0.140,2.460,2.799
+2026-07-26T14:15:03.905,20.00,1,ptc_in_silicone,5.0000,5,5,5,1.076,0.077,0.940,1.126
+2026-07-26T14:15:03.905,20.00,1,ptc_in_silicone,6.0000,5,5,5,0.459,0.079,0.418,0.600
+2026-07-26T14:15:03.906,20.00,1,ptc_in_silicone,7.0000,5,5,5,0.224,0.082,0.078,0.262
+2026-07-26T14:15:03.906,20.00,1,ptc_in_silicone,8.0000,5,5,5,1.697,0.071,1.624,1.766

@@ -1,0 +1,10 @@
+timestamp,ambient_c,layout_index,layout_name,set_current_a,trials_requested,trials_completed,trips_detected,average_trip_time_s,stdev_trip_time_s,min_trip_time_s,max_trip_time_s
+2026-07-26T10:51:27.365,0.00,1,milling_around_ptc_island,1.5000,5,1,0,,,,
+2026-07-26T10:51:27.365,0.00,1,milling_around_ptc_island,1.7500,5,1,0,,,,
+2026-07-26T10:51:27.365,0.00,1,milling_around_ptc_island,2.0000,5,1,0,,,,
+2026-07-26T10:51:27.365,0.00,1,milling_around_ptc_island,3.0000,5,5,5,5.871,1.915,2.452,6.896
+2026-07-26T10:51:27.366,0.00,1,milling_around_ptc_island,4.0000,5,5,5,2.504,0.078,2.462,2.642
+2026-07-26T10:51:27.366,0.00,1,milling_around_ptc_island,5.0000,5,5,5,1.210,0.092,1.103,1.285
+2026-07-26T10:51:27.366,0.00,1,milling_around_ptc_island,6.0000,5,5,5,0.631,0.071,0.596,0.758
+2026-07-26T10:51:27.367,0.00,1,milling_around_ptc_island,7.0000,5,5,5,0.295,0.072,0.260,0.424
+2026-07-26T10:51:27.367,0.00,1,milling_around_ptc_island,8.0000,5,5,5,1.335,0.698,0.088,1.688
